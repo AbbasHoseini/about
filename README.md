@@ -11,6 +11,38 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=dark)
 
 ## 💻 Technologies I Work With
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+
+class Developer {
+  final String username;
+  final String name;
+  final String website;
+  final String email;
+  final List<String> social;
+  final Map<String, dynamic> code;
+
+  Developer()
+      : username = 'abbashoseini',
+        name = 'Abbas Hoseini',
+        website = 'theshopapp.ir',
+        email = 'abbashoseini.ir@gmail.com',
+        social = [
+          'https://theshopapp.ir',
+          'https://www.linkedin.com/in/mr-abbashoseini',
+          'https://instagram.com/mr_abbashoseini'
+        ],
+        code = {
+          'mobile': ['Flutter'],
+          'frontend': ['Flutter'],
+          'backend': ['NodeJS'],
+          'database': ['PostgreSQL', 'MySQL', 'Oracle', 'Mongo DB'],
+          'devops': ['Docker'],
+          'tools': [
+            'GIT',
+            'GitHub',
+            'GitLab',
+            'BitBucket'
+          ],
+          'misc': ['Firebase', 'SCRUM', 'SOLID', 'Clean Archtecture']
+        };
+}
