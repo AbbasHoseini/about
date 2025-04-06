@@ -24,7 +24,7 @@ class Developer {
   Developer()
       : username = 'abbashoseini',
         name = 'Abbas Hoseini',
-        website = 'theshopapp.ir',
+        website = 'TheShopApp.ir',
         email = 'abbashoseini.ir@gmail.com',
         social = [
           'https://theshopapp.ir',
