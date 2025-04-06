@@ -12,7 +12,7 @@
 
 ## 💻 Technologies I Work With
 
-<pre> ```
+<pre lang="markdown"> ```
 class Developer {
   final String username;
   final String name;
