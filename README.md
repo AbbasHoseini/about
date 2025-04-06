@@ -12,7 +12,7 @@
 
 ## 💻 Technologies I Work With
 
-
+<pre> ```
 class Developer {
   final String username;
   final String name;
@@ -46,3 +46,4 @@ class Developer {
           'misc': ['Firebase', 'SCRUM', 'SOLID', 'Clean Archtecture']
         };
 }
+``` </pre>
